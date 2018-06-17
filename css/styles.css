@@ -22,7 +22,7 @@ h1 {
 }
 
 h1 {
-  background-color: lightblue;
+  background-color: teal;
 }
 
 #navcontainer ul {
@@ -34,8 +34,8 @@ h1 {
 
 #navcontainer a {
   display: block;
-  color: #FFF;
-  background-color: #036;
+  color: black;
+  background-color: turquoise;
   width: 7em;
   padding: 3px 12px 3px 9px;
   border-bottom: 1px solid #fff;
@@ -45,8 +45,8 @@ h1 {
 
 #navcontainer li li a {
   display: block;
-  color: #FFF;
-  background-color: #69C;
+  color: black;
+  background-color: teal;
   width: 7em;
   padding: 3px 3px 3px 13px;
   border-bottom: 1px solid #fff;
