@@ -22,9 +22,34 @@ h1 {
 }
 
 h1 {
-    background-color: lightblue;
+  background-color: lightblue;
 }
-#div-with-bg
-{
-    background: color url('images/work.jpeg') others;
+
+#navcontainer ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+}
+
+#navcontainer a {
+  display: block;
+  color: #FFF;
+  background-color: #036;
+  width: 7em;
+  padding: 3px 12px 3px 9px;
+  border-bottom: 1px solid #fff;
+  font-weight: bold;
+  float:right
+}
+
+#navcontainer li li a {
+  display: block;
+  color: #FFF;
+  background-color: #69C;
+  width: 7em;
+  padding: 3px 3px 3px 13px;
+  border-bottom: 1px solid #fff;
+  font-weight: normal;
+  float:right
 }
