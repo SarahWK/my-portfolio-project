@@ -24,3 +24,7 @@ h1 {
 h1 {
     background-color: lightblue;
 }
+#div-with-bg
+{
+    background: color url('images/work.jpeg') others;
+}
