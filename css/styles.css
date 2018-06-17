@@ -1,9 +1,9 @@
-h1, h2, h3, {
+h1, h2, h3,  {
   font-family: 'Corben', Georgia, Times, serif;
   text-align: center;
 }
 
-p, div {
+p, div, h3, {
   font-family: 'Nobile', Helvetica, Arial, sans-serif;
 }
 
