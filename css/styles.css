@@ -52,3 +52,7 @@ h1 {
   font-weight: normal;
   float: right
 }
+
+body {
+background-image: url("../images/work.jpeg");
+}
